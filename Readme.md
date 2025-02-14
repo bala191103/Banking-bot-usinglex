@@ -36,25 +36,24 @@ Below are key screenshots from the chatbot interaction:
 
 👉 
 
-(Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.001.png)
+Images/Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.001.png
 
 **2️⃣ Balance Inquiry Response**
 
 👉 
 
-(Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.002.png)
+Images/Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.002.png
 
 **3️⃣ Fund Transfer Confirmation**
 
-👉 n
-
-(Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.003.png)
+👉 Images/Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.003.png
 
 **4️⃣ Account Summary Screen**
 
 👉 
 
-(Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.004.png)
+Images/Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.005.png
+Images/Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.006.png
 
 -----
 **📂 Folder Structure**
