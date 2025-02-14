@@ -34,27 +34,27 @@ Below are key screenshots from the chatbot interaction:
 
 **1️⃣ Banking Bot Welcome Screen**
 
-👉 ![A computer screen shot of a computer screen
+👉 
 
-AI-generated content may be incorrect.](Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.001.png)
+(Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.001.png)
 
 **2️⃣ Balance Inquiry Response**
 
-👉 ![A computer screen shot of a computer
+👉 
 
-AI-generated content may be incorrect.](Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.002.png)
+(Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.002.png)
 
 **3️⃣ Fund Transfer Confirmation**
 
-👉 ![A computer screen shot of a computer screen
+👉 n
 
-AI-generated content may be incorrect.](Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.003.png)
+(Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.003.png)
 
 **4️⃣ Account Summary Screen**
 
-👉 ![A computer screen shot of a chat
+👉 
 
-AI-generated content may be incorrect.](Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.004.png)
+(Aspose.Words.3c75558c-f0d9-44a5-b630-ac4c15ec0777.004.png)
 
 -----
 **📂 Folder Structure**
