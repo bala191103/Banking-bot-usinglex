@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Personal Vanghee</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('bank.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            color: #000000;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px 0;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 1.5em;
+        }
+
+        h2 {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 20px auto;
+            max-width: 400px;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        ul li ul {
+            margin-top: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+
+        .chat-widget {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1><img src="robot.png" alt="Personal Vanghee" />Personal Vanghee</h1>
+    </header>
+    <hr />
+
+    <h2>I AM PERSONAL VANGHEE BOT</h2>
+
+    <ul>
+        <li>
+            <b>I CAN HELP YOU TO:</b>
+            <ul>
+                <li>CHECK BANK ACCOUNT BALANCE</li>
+                <li>TRANSFER AMOUNT</li>
+            </ul>
+        </li>
+    </ul>
+
+    <div class="chat-widget">
+        <script type="text/javascript">
+            (function(d, m){
+                var kommunicateSettings = 
+                    {"appId":"32737bceffdee9fcd7c4e9c3db3fe3263","popupWidget":true,"automaticChatOpenOnNavigation":true};
+                var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+                s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
+                var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
+                window.kommunicate = m; m._globals = kommunicateSettings;
+            })(document, window.kommunicate || {});
+        </script>
+    </div>
+</body>
+
+</html>
